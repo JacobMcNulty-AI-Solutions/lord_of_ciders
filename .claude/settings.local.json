@@ -1,0 +1,41 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(/C:\\Users\\jacob\\Documents\\lord_of_ciders\\docs\\04_Research\\research_results/**)",
+      "Read(/C:\\Users\\jacob\\Documents\\lord_of_ciders\\docs\\04_Research\\research_results/**)",
+      "Read(/C:\\Users\\jacob\\Documents\\lord_of_ciders\\docs\\04_Research\\research_summaries/**)",
+      "Read(/C:\\Users\\jacob\\Documents\\lord_of_ciders\\docs\\04_Research\\research_summaries/**)",
+      "Read(/C:\\Users\\jacob\\Documents\\lord_of_ciders\\docs\\04_Research\\research_briefs/**)",
+      "Read(/C:\\Users\\jacob\\Documents\\lord_of_ciders\\docs\\04_Research\\research_briefs/**)",
+      "Read(/C:\\Users\\jacob\\Documents\\lord_of_ciders\\docs\\04_Research\\research_results/**)",
+      "Read(/C:\\Users\\jacob\\Documents\\lord_of_ciders\\docs\\04_Research\\research_results/**)",
+      "Read(/C:\\Users\\jacob\\Documents\\lord_of_ciders\\docs\\04_Research\\research_results/**)",
+      "Read(/C:\\Users\\jacob\\Documents\\lord_of_ciders/**)",
+      "Read(/C:\\Users\\jacob\\Documents\\lord_of_ciders\\docs/**)",
+      "Read(/C:\\Users\\jacob\\Documents\\lord_of_ciders\\docs/**)",
+      "Read(/C:\\Users\\jacob\\Documents\\lord_of_ciders\\docs/**)",
+      "Read(/C:\\Users\\jacob\\Documents\\lord_of_ciders\\docs/**)",
+      "Read(/C:\\Users\\jacob\\Documents\\lord_of_ciders\\docs\\03_Design\\01_Architecture_Design/**)",
+      "Read(/C:\\Users\\jacob\\Documents\\lord_of_ciders\\docs\\01_Specification/**)",
+      "Read(/C:\\Users\\jacob\\Documents\\lord_of_ciders/**)",
+      "Read(/C:\\Users\\jacob\\Documents\\lord_of_ciders\\agents/**)",
+      "Read(/C:\\Users\\jacob\\Documents\\lord_of_ciders/**)",
+      "Read(/C:\\Users\\jacob\\Documents\\lord_of_ciders/**)",
+      "Read(/C:\\Users\\jacob\\Documents\\lord_of_ciders\\docs/**)",
+      "Read(/C:\\Users\\jacob\\Documents\\lord_of_ciders\\agents\\sparc/**)",
+      "Read(/C:\\Users\\jacob\\Documents\\lord_of_ciders\\agents\\core/**)",
+      "Read(/C:\\Users\\jacob\\Documents\\lord_of_ciders\\agents\\core/**)",
+      "Read(/C:\\Users\\jacob\\Documents\\lord_of_ciders\\agents\\core/**)",
+      "Read(/C:\\Users\\jacob\\Documents\\lord_of_ciders\\agents\\core/**)",
+      "Read(/C:\\Users\\jacob\\Documents\\lord_of_ciders\\agents\\core/**)",
+      "Read(/C:\\Users\\jacob\\Documents\\lord_of_ciders\\agents\\sparc/**)",
+      "Read(/C:\\Users\\jacob\\Documents\\lord_of_ciders\\agents\\sparc/**)",
+      "Read(/C:\\Users\\jacob\\Documents\\lord_of_ciders\\agents\\sparc/**)",
+      "Read(/C:\\Users\\jacob\\Documents\\lord_of_ciders\\agents\\templates/**)",
+      "Read(/C:\\Users\\jacob\\Documents\\lord_of_ciders\\agents\\specialized\\mobile/**)",
+      "Bash(find:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
